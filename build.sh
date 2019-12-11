@@ -1,1 +1,1 @@
-docker build -t monade/rails-webpack-ci:0.1.0 .
+docker build -t monade/rails-webpack-ci:2.6.0 .
